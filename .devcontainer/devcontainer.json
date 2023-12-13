@@ -30,7 +30,8 @@
     			"keep-a-changelog.defaultRepository": "docker-scm"
 			},
 			"extensions": [
-				"GitHub.vscode-pull-request-github"
+				"GitHub.vscode-pull-request-github",
+				"bierner.markdown-preview-github-styles"
 			]
 		}
 	}
