@@ -10,7 +10,7 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub issues](https://img.shields.io/github/issues/rabbenhuis/docker-scm)](https://github.com/rabbenhuis/docker-scm/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/rabbenhuis/docker-scm)](https://github.com/rabbenhuis/docker-scm/pulls)
-[![License](https://img.shields.io/github/license/rabbenhuis/docker-scm)](/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/rabbenhuis/docker-scm)](/LICENSE)
 
 </div>
 
